@@ -1,8 +1,0 @@
-{
-    cmdlines = {
-        "xmake check",
-        [[xmake l c:\Users\21496\.vscode\extensions\tboox.xmake-vscode-2.3.7\assets\explorer.lua]],
-        [[xmake l c:\Users\21496\.vscode\extensions\tboox.xmake-vscode-2.3.7\assets\explorer.lua]],
-        [[xmake l c:\Users\21496\.vscode\extensions\tboox.xmake-vscode-2.3.7\assets\explorer.lua]]
-    }
-}
